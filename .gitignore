@@ -1,0 +1,4 @@
+node_modules
+no queremos meter en el repositorio de git los modelos instalados
+.vscode
+firebase.json
